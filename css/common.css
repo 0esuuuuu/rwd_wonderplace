@@ -933,3 +933,17 @@ textarea { width:100%; border:none; background: #f8f8f8; padding:15px;}
   right: 0;
   background: #131313;
 }
+
+
+.main_tit {
+  font-size: 1.6rem;
+  line-height: 20px;
+  font-weight: 700;
+  letter-spacing: 0.3em;
+}
+.sub_tit {
+  font-size: 5.5rem;
+  line-height: 65px;
+  font-weight: 700;
+  white-space: nowrap;
+}
